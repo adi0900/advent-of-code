@@ -1,7 +1,3 @@
-Here's a structured and well-organized GitHub README template that includes a description, features, tips, FAQs, and credits for Advent of Code:
-
----
-
 # Advent of Code by Eric Wastl
 
 ![Advent of Code](https://adventofcode.com/favicon.png)
@@ -71,7 +67,3 @@ Unfortunately, due to copyright and attribution concerns, I can't accept puzzle 
 Advent of Code is a registered trademark in the United States. All design elements, language, styles, and concepts are proprietary and cannot be replicated without express written permission. However, you are free to reference or link to puzzles from Advent of Code for discussions, tutorials, or educational content.
 
 **Copyright**: 2015-2024 Advent of Code. All rights reserved.
-
----
-
-Feel free to modify or expand this README as needed for your GitHub repository!
